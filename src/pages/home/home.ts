@@ -23,3 +23,8 @@ export class HomePage {
   }
 
 }
+
+
+// Para mostrar las fotos, se ponia 'pictures' que se encontraba dentro del atributo ads, que es donde se encontraba toda la información de las casas
+// Para mostrar los precios se tenia que acceder también a ads y habia otro atributo llamado price dentro de cada uno de los atributos que eran números que eran cada casa diferente y de ahí para que diera el preci era n otro atributo llamado formattedAmount
+// Paa mostrar la ubicación se accedi tambien a ads y de ahi a otro atributo llamado geo y de ahí a otro llamado name que decía el nombre de la ciudad y también dentro de geo a otro llamado displayName para que diera el nombre de la zona
